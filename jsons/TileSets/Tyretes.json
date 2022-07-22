@@ -1,7 +1,7 @@
 
 {
     "useColorAsBaseTerrain": "false",
-    "fallbackTileSet": null,
+    "fallbackTileSet": HexaRealm,
     "ruleVariants": {
         //Legacy hill support
         "Hill": ["Grassland","Hill"],
