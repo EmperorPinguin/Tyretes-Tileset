@@ -1,0 +1,874 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/Tyretes/Tiles/Afbeelding4
+  rotate: false
+  xy: 4, 908
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Amber
+  rotate: false
+  xy: 1772, 856
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Antiquity Sitex
+  rotate: false
+  xy: 4, 772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Archaeological Dig
+  rotate: false
+  xy: 140, 892
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Archaeological Digx
+  rotate: false
+  xy: 4, 636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Artefacts
+  rotate: false
+  xy: 140, 756
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Atoll
+  rotate: false
+  xy: 276, 900
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Reef
+  rotate: false
+  xy: 276, 900
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Base Hex
+  rotate: false
+  xy: 4, 516
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Bermuda Triangle
+  rotate: false
+  xy: 140, 636
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Bonus Resource Farmx2
+  rotate: false
+  xy: 276, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Bonus resource Farm
+  rotate: false
+  xy: 412, 900
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Camp
+  rotate: false
+  xy: 548, 127
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Campus
+  rotate: false
+  xy: 620, 187
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Campus-Snow
+  rotate: false
+  xy: 1028, 318
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Cattle
+  rotate: false
+  xy: 4, 388
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Cattle+Pasture
+  rotate: false
+  xy: 140, 508
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Chateau
+  rotate: false
+  xy: 1364, 403
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Chemamull
+  rotate: false
+  xy: 1436, 459
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Chocolate Hills
+  rotate: false
+  xy: 276, 644
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Citrus
+  rotate: false
+  xy: 956, 261
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Cliffs of Dover
+  rotate: false
+  xy: 412, 772
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Coast
+  rotate: false
+  xy: 548, 908
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Cocoa
+  rotate: false
+  xy: 1636, 672
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Coffee
+  rotate: false
+  xy: 1708, 734
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Commercial Hub
+  rotate: false
+  xy: 1772, 813
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Copper
+  rotate: false
+  xy: 1812, 856
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Crabs
+  rotate: false
+  xy: 1908, 956
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Crater Lake
+  rotate: false
+  xy: 4, 268
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Deer
+  rotate: false
+  xy: 140, 372
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Desert
+  rotate: false
+  xy: 276, 524
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Desert - Copy
+  rotate: false
+  xy: 412, 624
+  size: 128, 140
+  orig: 128, 140
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Diamonds
+  rotate: false
+  xy: 1948, 992
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Encampment
+  rotate: false
+  xy: 1636, 629
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Encampment-Snow
+  rotate: false
+  xy: 1772, 775
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Farm
+  rotate: false
+  xy: 548, 780
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Farmx2
+  rotate: false
+  xy: 684, 892
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Flood plains
+  rotate: false
+  xy: 4, 140
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Forest
+  rotate: false
+  xy: 140, 244
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Fountain of Youth
+  rotate: false
+  xy: 276, 396
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Fountain of Youthx
+  rotate: false
+  xy: 412, 496
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Furs
+  rotate: false
+  xy: 4, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Geothermal Fissure
+  rotate: false
+  xy: 548, 644
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Gobustan
+  rotate: false
+  xy: 684, 764
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Grassland
+  rotate: false
+  xy: 820, 908
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Gypsum
+  rotate: false
+  xy: 1812, 820
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Hill
+  rotate: false
+  xy: 140, 124
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Hill - Copy
+  rotate: false
+  xy: 276, 268
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Hill-Caballero
+  rotate: false
+  xy: 412, 360
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/HillFarm
+  rotate: false
+  xy: 548, 516
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/HillMine
+  rotate: false
+  xy: 684, 636
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Holy Site
+  rotate: false
+  xy: 1908, 912
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Honey
+  rotate: false
+  xy: 1948, 956
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Horses
+  rotate: false
+  xy: 820, 780
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Horses+Pasture
+  rotate: false
+  xy: 956, 900
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Industrial Zone
+  rotate: false
+  xy: 1988, 981
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Jade
+  rotate: false
+  xy: 1636, 593
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Jungle
+  rotate: false
+  xy: 276, 140
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Kurgan
+  rotate: false
+  xy: 1636, 545
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Lakes
+  rotate: false
+  xy: 140, 4
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Lakes - Copy
+  rotate: false
+  xy: 1540, 497
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Lumber mill - Copy
+  rotate: false
+  xy: 548, 167
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Lumber mill - Copy (2)
+  rotate: false
+  xy: 956, 297
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Lumber mill - Copy (3)
+  rotate: false
+  xy: 1364, 444
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Lumber millx
+  rotate: false
+  xy: 1636, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/LumbermillForest
+  rotate: false
+  xy: 412, 232
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Maize
+  rotate: false
+  xy: 548, 388
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Maizex
+  rotate: false
+  xy: 1812, 782
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Marsh
+  rotate: false
+  xy: 684, 516
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Mekewap
+  rotate: false
+  xy: 1852, 820
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Mercury
+  rotate: false
+  xy: 1948, 920
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Mine
+  rotate: false
+  xy: 820, 652
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Mount Kilimanjaro
+  rotate: false
+  xy: 956, 753
+  size: 128, 139
+  orig: 128, 139
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Mountain
+  rotate: false
+  xy: 1092, 878
+  size: 128, 142
+  orig: 128, 142
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Niter
+  rotate: false
+  xy: 1988, 944
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Nubian Pyramid
+  rotate: false
+  xy: 1852, 775
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Oasis
+  rotate: false
+  xy: 276, 12
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Ocean
+  rotate: false
+  xy: 412, 112
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Ocean - Copy
+  rotate: false
+  xy: 548, 231
+  size: 128, 149
+  orig: 128, 149
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Offshore Wind Farm
+  rotate: false
+  xy: 684, 377
+  size: 128, 131
+  orig: 128, 131
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Wind Farm
+  rotate: false
+  xy: 684, 377
+  size: 128, 131
+  orig: 128, 131
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Olives
+  rotate: false
+  xy: 1676, 666
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Outback Station
+  rotate: false
+  xy: 1676, 618
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Outback Stationz
+  rotate: false
+  xy: 412, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/PalmTree1--Features-128x
+  rotate: false
+  xy: 820, 516
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Pantanal
+  rotate: false
+  xy: 956, 625
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Pasture
+  rotate: false
+  xy: 1092, 750
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Plains
+  rotate: false
+  xy: 1228, 908
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Plains - Copy
+  rotate: false
+  xy: 684, 249
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Polder
+  rotate: false
+  xy: 820, 388
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Polder-x
+  rotate: false
+  xy: 956, 489
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Quarry
+  rotate: false
+  xy: 1092, 622
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Rice
+  rotate: false
+  xy: 1228, 780
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Ricex
+  rotate: false
+  xy: 1676, 582
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Sahara el Beyda
+  rotate: false
+  xy: 1364, 900
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Salt
+  rotate: false
+  xy: 1676, 546
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Sheep
+  rotate: false
+  xy: 820, 260
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Sheep+Pasture
+  rotate: false
+  xy: 956, 361
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Shipwreck
+  rotate: false
+  xy: 1092, 494
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Snow
+  rotate: false
+  xy: 1228, 660
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Solar Farm
+  rotate: false
+  xy: 1364, 780
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Stepwell
+  rotate: false
+  xy: 1500, 900
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Stepwell-Copy
+  rotate: false
+  xy: 1228, 524
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Tea
+  rotate: false
+  xy: 1228, 360
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Terrace Farm
+  rotate: false
+  xy: 1092, 366
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/TerraceFarm1-128x
+  rotate: false
+  xy: 1364, 644
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Theatre Square
+  rotate: false
+  xy: 1268, 352
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Tobacco
+  rotate: false
+  xy: 1308, 360
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Trade Route (Domestic)
+  rotate: false
+  xy: 1404, 402
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Trade Route (International)
+  rotate: false
+  xy: 1404, 402
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Truffles
+  rotate: false
+  xy: 996, 261
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Tundra
+  rotate: false
+  xy: 1500, 780
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Turtles
+  rotate: false
+  xy: 1500, 496
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Uluru
+  rotate: false
+  xy: 1636, 900
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Volcanic Soil
+  rotate: false
+  xy: 1228, 396
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Volcano
+  rotate: false
+  xy: 1364, 508
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Whales
+  rotate: false
+  xy: 1500, 652
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Wheat
+  rotate: false
+  xy: 1636, 772
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Wind Farmx
+  rotate: false
+  xy: 1772, 892
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/Ziggurat
+  rotate: false
+  xy: 520, 64
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Tiles/unknown
+  rotate: false
+  xy: 1500, 532
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Units/Archaeologist
+  rotate: false
+  xy: 1908, 992
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Units/Helicopter
+  rotate: false
+  xy: 1852, 856
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Tyretes/Units/Trader
+  rotate: false
+  xy: 588, 125
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
