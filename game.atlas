@@ -13,7 +13,7 @@ TileSets/Tyretes/Tiles/Afbeelding4
   index: -1
 TileSets/Tyretes/Tiles/Amber
   rotate: false
-  xy: 1772, 856
+  xy: 412, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -90,21 +90,21 @@ TileSets/Tyretes/Tiles/Bonus resource Farm
   index: -1
 TileSets/Tyretes/Tiles/Camp
   rotate: false
-  xy: 548, 127
+  xy: 548, 108
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Campus
   rotate: false
-  xy: 620, 187
+  xy: 1772, 848
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Campus-Snow
   rotate: false
-  xy: 1028, 318
+  xy: 1908, 985
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
@@ -125,14 +125,14 @@ TileSets/Tyretes/Tiles/Cattle+Pasture
   index: -1
 TileSets/Tyretes/Tiles/Chateau
   rotate: false
-  xy: 1364, 403
+  xy: 756, 190
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Chemamull
   rotate: false
-  xy: 1436, 459
+  xy: 1028, 304
   size: 32, 41
   orig: 32, 41
   offset: 0, 0
@@ -146,7 +146,7 @@ TileSets/Tyretes/Tiles/Chocolate Hills
   index: -1
 TileSets/Tyretes/Tiles/Citrus
   rotate: false
-  xy: 956, 261
+  xy: 1228, 360
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -181,21 +181,21 @@ TileSets/Tyretes/Tiles/Coffee
   index: -1
 TileSets/Tyretes/Tiles/Commercial Hub
   rotate: false
-  xy: 1772, 813
+  xy: 484, 61
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Copper
   rotate: false
-  xy: 1812, 856
+  xy: 588, 112
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Crabs
   rotate: false
-  xy: 1908, 956
+  xy: 1772, 812
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -230,21 +230,21 @@ TileSets/Tyretes/Tiles/Desert - Copy
   index: -1
 TileSets/Tyretes/Tiles/Diamonds
   rotate: false
-  xy: 1948, 992
+  xy: 1812, 856
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Encampment
   rotate: false
-  xy: 1636, 629
+  xy: 1908, 942
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Encampment-Snow
   rotate: false
-  xy: 1772, 775
+  xy: 1948, 990
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
@@ -321,7 +321,7 @@ TileSets/Tyretes/Tiles/Grassland
   index: -1
 TileSets/Tyretes/Tiles/Gypsum
   rotate: false
-  xy: 1812, 820
+  xy: 1268, 360
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -363,14 +363,14 @@ TileSets/Tyretes/Tiles/HillMine
   index: -1
 TileSets/Tyretes/Tiles/Holy Site
   rotate: false
-  xy: 1908, 912
+  xy: 1812, 812
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Honey
   rotate: false
-  xy: 1948, 956
+  xy: 628, 112
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -391,14 +391,14 @@ TileSets/Tyretes/Tiles/Horses+Pasture
   index: -1
 TileSets/Tyretes/Tiles/Industrial Zone
   rotate: false
-  xy: 1988, 981
+  xy: 1852, 845
   size: 32, 39
   orig: 32, 39
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Jade
   rotate: false
-  xy: 1636, 593
+  xy: 1772, 776
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -412,7 +412,7 @@ TileSets/Tyretes/Tiles/Jungle
   index: -1
 TileSets/Tyretes/Tiles/Kurgan
   rotate: false
-  xy: 1636, 545
+  xy: 1908, 894
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
@@ -426,28 +426,28 @@ TileSets/Tyretes/Tiles/Lakes
   index: -1
 TileSets/Tyretes/Tiles/Lakes - Copy
   rotate: false
-  xy: 1540, 497
+  xy: 1472, 425
   size: 27, 27
   orig: 27, 27
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Lumber mill - Copy
   rotate: false
-  xy: 548, 167
+  xy: 412, 40
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Lumber mill - Copy (2)
   rotate: false
-  xy: 956, 297
+  xy: 684, 167
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Lumber mill - Copy (3)
   rotate: false
-  xy: 1364, 444
+  xy: 956, 289
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -475,7 +475,7 @@ TileSets/Tyretes/Tiles/Maize
   index: -1
 TileSets/Tyretes/Tiles/Maizex
   rotate: false
-  xy: 1812, 782
+  xy: 1948, 952
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
@@ -489,14 +489,14 @@ TileSets/Tyretes/Tiles/Marsh
   index: -1
 TileSets/Tyretes/Tiles/Mekewap
   rotate: false
-  xy: 1852, 820
+  xy: 1988, 992
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Mercury
   rotate: false
-  xy: 1948, 920
+  xy: 1308, 360
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -522,121 +522,128 @@ TileSets/Tyretes/Tiles/Mountain
   orig: 128, 142
   offset: 0, 0
   index: -1
+TileSets/Tyretes/Tiles/Natural Wonder
+  rotate: false
+  xy: 276, 20
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
 TileSets/Tyretes/Tiles/Niter
   rotate: false
-  xy: 1988, 944
+  xy: 1636, 599
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Nubian Pyramid
   rotate: false
-  xy: 1852, 775
+  xy: 1948, 907
   size: 32, 37
   orig: 32, 37
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Oasis
   rotate: false
-  xy: 276, 12
+  xy: 412, 104
   size: 128, 120
   orig: 128, 120
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Ocean
   rotate: false
-  xy: 412, 112
+  xy: 548, 268
   size: 128, 112
   orig: 128, 112
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Ocean - Copy
   rotate: false
-  xy: 548, 231
+  xy: 684, 359
   size: 128, 149
   orig: 128, 149
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Offshore Wind Farm
   rotate: false
-  xy: 684, 377
+  xy: 820, 513
   size: 128, 131
   orig: 128, 131
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Wind Farm
   rotate: false
-  xy: 684, 377
+  xy: 820, 513
   size: 128, 131
   orig: 128, 131
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Olives
   rotate: false
-  xy: 1676, 666
+  xy: 1988, 950
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Outback Station
   rotate: false
-  xy: 1676, 618
+  xy: 1636, 551
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Outback Stationz
   rotate: false
-  xy: 412, 4
+  xy: 1364, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/PalmTree1--Features-128x
   rotate: false
-  xy: 820, 516
+  xy: 956, 617
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Pantanal
   rotate: false
-  xy: 956, 625
+  xy: 1092, 750
   size: 128, 120
   orig: 128, 120
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Pasture
   rotate: false
-  xy: 1092, 750
+  xy: 1228, 900
   size: 128, 120
   orig: 128, 120
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Plains
   rotate: false
-  xy: 1228, 908
+  xy: 548, 148
   size: 128, 112
   orig: 128, 112
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Plains - Copy
   rotate: false
-  xy: 684, 249
+  xy: 684, 231
   size: 128, 120
   orig: 128, 120
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Polder
   rotate: false
-  xy: 820, 388
+  xy: 820, 385
   size: 128, 120
   orig: 128, 120
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Polder-x
   rotate: false
-  xy: 956, 489
+  xy: 956, 481
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -650,14 +657,14 @@ TileSets/Tyretes/Tiles/Quarry
   index: -1
 TileSets/Tyretes/Tiles/Rice
   rotate: false
-  xy: 1228, 780
+  xy: 1228, 772
   size: 128, 120
   orig: 128, 120
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Ricex
   rotate: false
-  xy: 1676, 582
+  xy: 1812, 776
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -671,21 +678,21 @@ TileSets/Tyretes/Tiles/Sahara el Beyda
   index: -1
 TileSets/Tyretes/Tiles/Salt
   rotate: false
-  xy: 1676, 546
+  xy: 1852, 809
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Sheep
   rotate: false
-  xy: 820, 260
+  xy: 820, 257
   size: 128, 120
   orig: 128, 120
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Sheep+Pasture
   rotate: false
-  xy: 956, 361
+  xy: 956, 353
   size: 128, 120
   orig: 128, 120
   offset: 0, 0
@@ -699,7 +706,7 @@ TileSets/Tyretes/Tiles/Shipwreck
   index: -1
 TileSets/Tyretes/Tiles/Snow
   rotate: false
-  xy: 1228, 660
+  xy: 1228, 652
   size: 128, 112
   orig: 128, 112
   offset: 0, 0
@@ -720,21 +727,21 @@ TileSets/Tyretes/Tiles/Stepwell
   index: -1
 TileSets/Tyretes/Tiles/Stepwell-Copy
   rotate: false
-  xy: 1228, 524
+  xy: 1092, 358
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Tea
   rotate: false
-  xy: 1228, 360
+  xy: 1988, 914
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Terrace Farm
   rotate: false
-  xy: 1092, 366
+  xy: 1228, 524
   size: 128, 120
   orig: 128, 120
   offset: 0, 0
@@ -748,35 +755,35 @@ TileSets/Tyretes/Tiles/TerraceFarm1-128x
   index: -1
 TileSets/Tyretes/Tiles/Theatre Square
   rotate: false
-  xy: 1268, 352
+  xy: 1676, 664
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Tobacco
   rotate: false
-  xy: 1308, 360
+  xy: 1676, 628
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Trade Route (Domestic)
   rotate: false
-  xy: 1404, 402
+  xy: 1676, 586
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Trade Route (International)
   rotate: false
-  xy: 1404, 402
+  xy: 1676, 586
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Tiles/Truffles
   rotate: false
-  xy: 996, 261
+  xy: 1852, 773
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -790,7 +797,7 @@ TileSets/Tyretes/Tiles/Tundra
   index: -1
 TileSets/Tyretes/Tiles/Turtles
   rotate: false
-  xy: 1500, 496
+  xy: 956, 253
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -839,7 +846,7 @@ TileSets/Tyretes/Tiles/Wind Farmx
   index: -1
 TileSets/Tyretes/Tiles/Ziggurat
   rotate: false
-  xy: 520, 64
+  xy: 1472, 460
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
@@ -853,21 +860,21 @@ TileSets/Tyretes/Tiles/unknown
   index: -1
 TileSets/Tyretes/Units/Archaeologist
   rotate: false
-  xy: 1908, 992
+  xy: 452, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Units/Helicopter
   rotate: false
-  xy: 1852, 856
+  xy: 1636, 636
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Tyretes/Units/Trader
   rotate: false
-  xy: 588, 125
+  xy: 1676, 544
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
